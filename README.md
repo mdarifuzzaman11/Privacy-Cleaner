@@ -27,32 +27,31 @@ Welcome to the *Privacy Cleaner Extension*! 🚀 This tool enhances your browsin
    ```sh
    git clone https://github.com/mdarifuzzaman11/Privacy-Cleaner
 
-## Navigate to Chrome Extensions:
+Navigate to Chrome Extensions:
 Open Chrome and go to chrome://extensions/.
 
-## Enable Developer Mode:
+Enable Developer Mode:
 Toggle 'Developer Mode' at the top right of the extensions page.
 
-## Load the Extension:
+Load the Extension:
 Click 'Load unpacked' and select the cloned directory.
 
-## Setting Up Keyboard Shortcuts
+Setting Up Keyboard Shortcuts
 Customize keyboard shortcuts for faster access:
 
 Go to chrome://extensions/shortcuts.
 Find Privacy Cleaner and set your desired shortcut keys.
 
-## Usage
+Usage
 Click the Privacy Cleaner icon in your Chrome toolbar or use your custom shortcut.
 Click 'Clear Browsing Data' to immediately clear data. 🎉
 
-
-## Contributing
+Contributing
 Contributions are welcome! Fork the repo, make your changes, and submit a pull request.
 
-## License
+License
 Licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+Acknowledgments
 Thanks to all contributors and users of Privacy Cleaner.
 A special tool for QA testers and privacy-conscious users.
