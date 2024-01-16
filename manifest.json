@@ -24,7 +24,7 @@
         "default": "Ctrl+Shift+Y",
         "mac": "Command+Shift+Y"
       },
-      "description": "Clear browsing data"
+      "description": "Clear browsing data via Shortcuts"
     }
   },
   "icons": {
